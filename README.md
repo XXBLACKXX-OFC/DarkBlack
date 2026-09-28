@@ -1,55 +1,66 @@
-🌑 DARK HUB
+# 🌑 DARK HUB
 
 <p align="center">
   <strong>Dark Hub — Roblox Script Hub</strong>
-</p><p align="center">
+</p>
+
+<p align="center">
   <a href="https://discord.gg/DXSjxvmrXC">💬 Discord Server</a>
-</p>---
-
-🎮 Supported Game
-
-Game| Status
-🍎 Blox Fruits| 🟢 Active
+</p>
 
 ---
 
-⚡ Blox Fruits
+## 🎮 Supported Game
 
-Dark Hub currently provides support for Blox Fruits, with its systems organized through a dedicated loader.
+| Game | Status |
+|:---|:---:|
+| 🍎 Blox Fruits | 🟢 Active |
 
-Loader
+---
 
+## ⚡ Blox Fruits
+
+Dark Hub currently provides support for **Blox Fruits**, with its systems organized through a dedicated loader.
+
+### 📜 Loader
+
+```lua
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 getgenv().Team = "Marines" -- Pirates/Marines
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XXBLACKXX-OFC/DarkBlack/refs/heads/main/Loader/Loader-BloxFruits.luau"))()
+```
 
-«Change "Marines" to "Pirates" if needed.»
-
----
-
-📊 Project Status
-
-Component| Status
-Blox Fruits| 🟢 Active
-Development| 🔄 Ongoing
+> Change `Marines` to `Pirates` if needed.
 
 ---
 
-💬 Discord Server
+## 📊 Project Status
 
-Join the official Dark Hub Discord Server:
+| Component | Status |
+|:---|:---:|
+| Blox Fruits | 🟢 Active |
+| Development | 🔄 Ongoing |
+
+---
+
+## 💬 Discord Server
+
+Join the official **Dark Hub Discord Server** to follow project updates, announcements, releases and community discussions.
 
 <p align="center">
   <a href="https://discord.gg/DXSjxvmrXC">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>Invite: "https://discord.gg/DXSjxvmrXC"
+</p>
+
+**Invite:**  
+https://discord.gg/DXSjxvmrXC
 
 ---
 
-👤 Developer
+## 👤 Developer
 
-{ 𝖂𝖂𝖂 } (wjeffwy)
+**{ 𝖂𝖂𝖂 } (wjeffwy)**
 
 ---
 
